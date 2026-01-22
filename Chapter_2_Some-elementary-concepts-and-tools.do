@@ -5,3 +5,7 @@
 * Author : Xiaoshu Wang
 * Date : 2026-01-21
 * ================================
+
+clear all
+
+set more off
